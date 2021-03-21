@@ -1,4 +1,4 @@
-#Mint Kernel File v1.1
+#Blueberry Core File v1.1
 import sqlite3
 from hashing import Hashing
 from history import History
@@ -144,6 +144,6 @@ class Kernel:
         else:
             return nowdollar
 """
-Meow Tech Mint - Kernel For The Central System
-Central System Has Been Modified To Use The Mint Core.
+Milkyway Blueberry Core - Core For The Blueberry System
+Blueberry System Has Been Modified To Use The Blueberry Core.
 """
